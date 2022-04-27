@@ -7,5 +7,5 @@ test('Add 3 ^ 2 results 9', expTest)
 
 function sumTest() {expect(calc.sum(1, 2)).toBe(3)}
 function subTest() {expect(calc.sub(1, 2)).toBe(-1)}
-function mulTest() {expect(calc.mul(2, 2)).toBe(4)}
-function expTest() {expect(calc.exp(3, 2)).toBe(9)}
+// function mulTest() {expect(calc.mul(2, 2)).toBe(4)}
+// function expTest() {expect(calc.exp(3, 2)).toBe(9)}
