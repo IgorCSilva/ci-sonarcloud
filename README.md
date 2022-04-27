@@ -1,1 +1,1 @@
-Obs.: A parte de verificação de cobertura de código do sonarcloud funcionou uma vez quando estava 100%, mas depois, removendo testes, parou de reportar. Apenas diz 'No coverage information'.
+Obs.: A parte de verificação de cobertura de código e duplicação do sonarcloud funciona as vezes, não sei porque. Apenas diz 'No Coverage Information' e 'No Duplication Information'.
