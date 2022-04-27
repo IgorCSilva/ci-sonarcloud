@@ -1,0 +1,14 @@
+{
+  "name": "ci-sonarcloud",
+  "version": "1.0.0",
+  "description": "Implementing ci with sonarcloud in github actions.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Igor Carneiro da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.0.2"
+  }
+}
